@@ -8,7 +8,7 @@ This release features major restructuring of the codebase, moving files,
 rewriting CMake build files, dropping Qt 5 support, external tagreader,
 and dropping some unmaintained parts such as VLC.
 
-Bugfixes:
+Bugfixes: 
 
     * Fixed playback of CUE continuing to play from the same file after the song has finished playing (#1568)
     * Fixed updating collection song sort text when disc is changed.
